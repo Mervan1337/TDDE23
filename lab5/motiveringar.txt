@@ -1,0 +1,5 @@
+I pixel_constraint kan det dels bli problem med att inte en tuple skickas en eller att hsv:n som skickas in är fel antal siffror
+
+I generator_from_image kan det bli problem med att det skickas in ett index som inte existerar eller att det inte är en tuple
+
+I combine combine_images kan det bli fel återigen med index, variabeltyp och fel sorts "value"
